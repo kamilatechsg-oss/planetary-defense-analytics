@@ -1,7 +1,7 @@
 # ☄️ Planetary Defense Analytics
 **Classifying, Predicting and Clustering Asteroids with Machine Learning**
 
-🔗 **Live app:** https://planetary-defense-analytics.streamlit.app  
+🔗 **Live app:** https://kamila-planetary-defense.streamlit.app/ 
 📂 **Repository:** https://github.com/kamilatechsg-oss/planetary-defense-analytics
 
 ## Overview
